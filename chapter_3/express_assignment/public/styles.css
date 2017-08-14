@@ -1,0 +1,123 @@
+
+element.style {
+    background-repeat: no-repeat;
+}
+
+    .navbar{
+    color: black;
+    width:100%;
+    height:200px;
+
+
+    }
+    .container{
+    width:80%;
+    margin:200px;
+    display: inline-block;
+    font-size:15px;
+    position: relative;
+
+    }
+
+
+#mainBox{
+   height: 1100px;
+   width:900px;
+   position:inline-block;
+    font-size:15px;
+    position: relative;
+
+}
+
+
+#post_content{
+   height: 1100px;
+   width:900px;
+   position:inline-block;
+    font-size:15px;
+    position: relative;
+
+}
+
+
+body{
+    
+background-size:cover;
+
+position:relative;
+height:600px;
+width:800px;
+
+
+}
+.BG {
+    height: 1600px;
+    width: 1400px;
+    background-size: auto 100%;
+    background-image: url(photos/back.png);
+    position: relative;
+}
+
+    .front_text{
+    text-align: left;
+    font-size: 10px;
+    font-family: "Times New Roman", Times, serif;
+
+    }
+
+
+
+    .header {
+        position: fixed;
+        width: 100%;
+        left:0px;
+        height: 100px;
+        background-color:white;
+        opacity: .5;
+        margin:0px;
+        text-align: center;
+        z-index: 1;
+    border: 8px solid red;
+    }
+
+.title{
+ text-align: left;
+float:left;
+
+}
+
+    #navbarSupportedContent{
+
+    float:right;
+
+
+    }
+
+
+    .upper_icons{
+    height:200;
+    width:200;
+
+
+
+    }
+
+
+
+    .titleBox{
+
+    width:200px;
+    height:50px;
+
+    }
+    .authorBox{
+
+    width:200px;
+    height:50px;
+
+    }
+    .mainBox{
+
+    width:800px;
+    height:1000px;
+    }
